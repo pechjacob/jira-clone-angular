@@ -35,5 +35,8 @@
   "homepage": "https://github.com/trungk18/jira-clone-angular#readme",
   "engines": {
     "node": "12.x"
+  },
+  "devDependencies": {
+    "angular-cli-ghpages": "^1.0.0"
   }
 }
